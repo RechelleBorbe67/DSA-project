@@ -1,3 +1,5 @@
+//THE ULTIMATE MUSIC FEST LUNEUP: A HEAP CHALLENGE 
+//RECHELLE BORBE and SUSAINE RICO
 #include <iostream>
 #include <vector>
 #include <string>
